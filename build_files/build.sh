@@ -23,7 +23,7 @@ dnf5 install -y btop fastfetch niri foot greetd khal adwaita-fonts-all igt-gpu-t
  dnf5 -y copr disable avengemedia/dms
 
  #brave-origin
- dnf -y config-manager --add-repo https://brave-browser-rpm-release.s3.brave.com/brave-browser.repo
+ dnf -y config-manager addrepo --from-repofile=https://brave-browser-rpm-release.s3.brave.com/brave-browser.repo
  dnf -y install brave-origin
 
 #### Example for enabling a System Unit File
