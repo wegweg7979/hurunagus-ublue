@@ -1,0 +1,33 @@
+// DMS Window Rules - Managed by DankMaterialShell
+// Do not edit manually - changes may be overwritten
+
+// @id=wr_1783440162712051594 @name=re.sonny.Retro
+window-rule {
+    match app-id="^re.sonny.Retro$"
+    open-floating true
+}
+
+// @id=wr_1783531642005383516 @name=GitHub Desktop
+window-rule {
+    match app-id="^GitHub Desktop$"
+    default-column-width { fixed 1450; }
+}
+
+// @id=wr_1783545540871229858 @name=com.bitwig.BitwigStudio
+window-rule {
+    match app-id="^com.bitwig.BitwigStudio$"
+    open-floating true
+    open-fullscreen true
+}
+
+// @id=wr_1783614133123517162 @name=foot
+window-rule {
+    match app-id="^foot$"
+    default-column-width { fixed 1450; }
+}
+
+// @id=wr_1783634873340439085 @name=io.missioncenter.MissionCenter
+window-rule {
+    match app-id="^io.missioncenter.MissionCenter$"
+    default-column-width { fixed 1450; }
+}
