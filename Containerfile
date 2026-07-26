@@ -36,6 +36,16 @@ RUN --mount=type=bind,from=ctx,source=/,target=/ctx \
     --mount=type=tmpfs,dst=/tmp \
     /ctx/build.sh
 
+# Rebrand system identifiers in /usr/lib/os-release
+RUN sed -i \
+    -e 's/^ID=.*/ID=hurunagus-silverblue/' \
+    -e 's/^ID_LIKE=.*/ID_LIKE="fedora"/' \
+    -e 's/^NAME=.*/NAME="hurunagus-silverblue"/' \
+    -e 's/^PRETTY_NAME=.*/PRETTY_NAME="hurunagus-silverblue"/' \
+    -e 's/^VERSION_CODENAME=.*/VERSION_CODENAME=hurunagus-silverblue/' \
+    -e 's/^DEFAULT_HOSTNAME=.*/DEFAULT_HOSTNAME="hurunagas33"/' \
+    /usr/lib/os-release
+
 ### LINTING
 ## Verify final image and contents are correct.
 RUN bootc container lint
