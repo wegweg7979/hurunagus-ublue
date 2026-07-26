@@ -20,7 +20,7 @@ dnf5 install -y btop fastfetch niri foot greetd khal adwaita-fonts-all igt-gpu-t
  dnf5 -y copr enable avengemedia/dms
  dnf5 -y install dms dsearch dms-greeter qt6ct-kde dankcalendar-git
 # Disable COPRs so they don't end up enabled on the final image:
-# dnf5 -y copr disable ublue-os/staging
+ dnf5 -y copr disable avengemedia/dms
 
 #### Example for enabling a System Unit File
 
