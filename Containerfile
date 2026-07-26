@@ -46,6 +46,9 @@ RUN sed -i \
     -e 's/^DEFAULT_HOSTNAME=.*/DEFAULT_HOSTNAME="hurunagas33"/' \
     /usr/lib/os-release
 
+# Copy custom Flatpak list into the system configuration path
+COPY system-flatpaks.list /usr/share/ublue-os/flatpaks/system-flatpaks.list
+
 ### LINTING
 ## Verify final image and contents are correct.
 RUN bootc container lint
