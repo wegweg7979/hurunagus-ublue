@@ -5,7 +5,8 @@ on:
     branches:
       - main
   schedule:
-    - cron: '05 10 * * *'  # 10:05am UTC everyday
+    - cron:  "00 06 * * 2" # build at 06:00 UTC every tuesday
+        # (20 minutes after last ublue images start building)
   push:
     branches:
       - main
