@@ -35,7 +35,7 @@ To rebase an existing atomic Fedora installation to the latest build:
   ```
 - To generate an installer .iso : 
   ```
-  sudo bluebuild generate-iso --iso-name hurunagus.iso image ghcr.io/wegweg7979/hurunagus-ublue
+  sudo bluebuild generate-iso -V server --iso-name hurunagus.iso image ghcr.io/wegweg7979/hurunagus-ublue
   ```
 
 
