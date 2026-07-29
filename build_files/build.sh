@@ -13,12 +13,12 @@ cp -avf "/ctx/system_files"/. /
 # https://mirrors.rpmfusion.org/mirrorlist?path=free/fedora/updates/43/x86_64/repoview/index.html&protocol=https&redirect=1
 
 # this installs a package from fedora repos
-dnf5 install -y btop fastfetch niri foot greetd khal adwaita-fonts-all igt-gpu-tools nautilus firefox lm_sensors
+dnf5 install -y btop fastfetch niri foot greetd khal adwaita-fonts-all igt-gpu-tools nautilus firefox lm_sensors cups-pk-helper fprintd kimageformats
 
 # Use a COPR Example:
 #
  dnf5 -y copr enable avengemedia/dms
- dnf5 -y install dms dsearch dms-greeter qt6ct-kde dankcalendar-git tuned-ppd cups-pk-helper kimageformats fprintd libimobiledevice
+ dnf5 -y install dms dsearch dms-greeter qt6ct-kde dankcalendar-git tuned-ppd
 # Disable COPRs so they don't end up enabled on the final image:
  dnf5 -y copr disable avengemedia/dms
 
