@@ -15,16 +15,15 @@ cp -avf "/ctx/system_files"/. /
 # this installs a package from fedora repos
 dnf5 install -y btop fastfetch niri foot greetd khal adwaita-fonts-all igt-gpu-tools nautilus firefox lm_sensors cups-pk-helper fprintd kf6-kimageformats
 
-# Use a COPR Example:
-#
- dnf5 -y copr enable avengemedia/dms
- dnf5 -y install dms dsearch dms-greeter qt6ct-kde dankcalendar-git tuned-ppd
-# Disable COPRs so they don't end up enabled on the final image:
- dnf5 -y copr disable avengemedia/dms
+# Enable the DMS COPR, install packages, then disable it so it doesn't
+# end up enabled on the final image (packages will be pinned to build-time versions).
+dnf5 -y copr enable avengemedia/dms
+dnf5 -y install dms dsearch dms-greeter qt6ct-kde dankcalendar-git tuned-ppd
+dnf5 -y copr disable avengemedia/dms
 
- #brave-origin
- dnf -y config-manager addrepo --from-repofile=https://brave-browser-rpm-release.s3.brave.com/brave-browser.repo
- dnf -y install brave-origin
+# Brave browser repo
+dnf5 -y config-manager addrepo --from-repofile=https://brave-browser-rpm-release.s3.brave.com/brave-browser.repo
+dnf5 -y install brave-origin
 
 #### Example for enabling a System Unit File
 
