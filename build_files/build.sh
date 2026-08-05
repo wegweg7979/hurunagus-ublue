@@ -25,7 +25,14 @@ dnf5 -y copr disable avengemedia/dms
 dnf5 -y config-manager addrepo --from-repofile=https://brave-browser-rpm-release.s3.brave.com/brave-browser.repo
 dnf5 -y install brave-origin
 
-#### Example for enabling a System Unit File
-
 systemctl enable podman.socket
 systemctl enable greetd.service
+
+### Cleanup build artifacts so they don't ship in the image
+dnf5 clean all
+rm -rf \
+  /run/dnf \
+  /run/selinux-policy \
+  /var/lib/dnf \
+  /var/lib/fprint \
+  /var/lib/greetd
