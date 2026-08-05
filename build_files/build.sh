@@ -33,6 +33,8 @@ dnf5 clean all
 rm -rf \
   /run/dnf \
   /run/selinux-policy \
+  /run/tuned \
   /var/lib/dnf \
   /var/lib/fprint \
-  /var/lib/greetd
+  /var/lib/greetd \
+  /var/lib/tuned
