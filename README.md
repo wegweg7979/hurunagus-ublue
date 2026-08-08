@@ -1,20 +1,19 @@
-[![bluebuild build badge](https://github.com/wegweg7979/hurunagus-ublue/actions/workflows/build.yml/badge.svg)](https://github.com/wegweg7979/hurunagus-ublue/actions/workflows/build.yml)
+[![build badge](https://github.com/wegweg7979/hurunagus-ublue/actions/workflows/build.yml/badge.svg)](https://github.com/wegweg7979/hurunagus-ublue/actions/workflows/build.yml)
 
 <img width="402" height="426" alt="542900251-a3d3f06c-29eb-40a7-a096-213a3418af8e" src="https://github.com/user-attachments/assets/9fd35c36-06b1-4b77-8160-c663de0a53a9" />
 
-
-
-
-
-
-
 Declarative, Atomic, immutable linux system. Fedora base, from ublue, with customisations including WM Niri with Dank Material Shell, and all the apps i need.
 
-Reason to exist: making all my computers run identical systems, with silent auto updates and admin in one place, this repo. 
-Automatic builds once a week on a tuesday. 
+Reason to exist: making all my computers run identical systems, with silent auto updates and admin in one place, this repo.
+Automatic builds once a week on a tuesday.
 Dont use this- make your own, it is not too difficult and quite fun.
 
-To install from scratch- installer iso can be found in the release section.
+To install from scratch, grab the installer ISO:
+
+```
+https://drive.google.com/file/d/1a5cKI8DIOkMS1URaBouHjLXrVkTheixX/view?usp=sharing
+```
+
 To rebase an existing atomic Fedora installation to the latest build:
 
 - First rebase to the unsigned image, to get the proper signing keys and policies installed:
@@ -33,16 +32,7 @@ To rebase an existing atomic Fedora installation to the latest build:
   ```
   systemctl reboot
   ```
-- Installer .iso : 
-  ```
-  https://drive.google.com/file/d/1a5cKI8DIOkMS1URaBouHjLXrVkTheixX/view?usp=sharing
-  ```
-
-
 
 Niri + Dank Material Shell
 <img width="1918" height="1077" alt="Screenshot from 2026-07-09 21-42-39" src="https://github.com/user-attachments/assets/6eb851fc-b459-4695-99fb-0d3323b71f09" />
-
-
-
 
