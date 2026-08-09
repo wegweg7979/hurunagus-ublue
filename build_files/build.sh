@@ -28,6 +28,7 @@ dnf5 -y install brave-origin
 systemctl enable podman.socket
 systemctl enable greetd.service
 systemctl enable flatpak-system-install.service
+systemctl enable add-default-user-groups.service
 
 ### Cleanup build artifacts so they don't ship in the image
 dnf5 clean all
