@@ -6,7 +6,7 @@ Declarative, Atomic, immutable linux system. Fedora base, from ublue, with custo
 
 Reason to exist: making all my computers run identical systems, with silent auto updates and admin in one place, this repo.
 Automatic builds once a week on a tuesday.
-Dont use this- make your own, it is not too difficult and quite fun.
+Dont use this- make your own, it is not too difficult and quite fun. https://github.com/ublue-os/image-template
 
 To install from scratch, grab the installer ISO:
 
