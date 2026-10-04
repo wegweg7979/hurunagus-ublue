@@ -18,7 +18,6 @@ org.kde.kpat
 org.gnome.Chess
 org.gnome.Maps
 org.nongnu.lingot
-com.dec05eba.gpu_screen_recorder
 org.inkscape.Inkscape
 org.virt_manager.virt-manager
 org.virt_manager.virt_manager.Extension.Qemu
