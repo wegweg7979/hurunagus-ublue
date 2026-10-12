@@ -38,8 +38,11 @@ Niri + Dank Material Shell
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <img width="263" height="144" alt="niri-logo" src="https://github.com/user-attachments/assets/79785a38-7bd2-40a4-824b-6cc76ef2521e" />
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 <p align="center">
@@ -47,6 +50,9 @@ Niri + Dank Material Shell
 </p>
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
