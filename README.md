@@ -152,4 +152,4 @@ Niri + Dank Material Shell
        clip-path="url(#clipPath33)" />
   </g>
 </svg>
-
+<img width="140" height="40" alt="fedora_darkbackground" src="https://github.com/user-attachments/assets/0dd3975d-16ac-46a6-a14e-d167bdd74281" /><?xml version="1.0" encoding="UTF-8" standalone="no"?>
