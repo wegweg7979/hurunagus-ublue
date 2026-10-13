@@ -38,7 +38,6 @@ Niri + Dank Material Shell
 
 <img width="263" height="144" alt="niri-logo" src="https://github.com/user-attachments/assets/79785a38-7bd2-40a4-824b-6cc76ef2521e" />
 
-<img src="" alt="Dank Material Shell Logo" width="200" />
 <img width="483" height="558" alt="danklogo" src="https://github.com/user-attachments/assets/87db3a33-3387-439c-acfe-8cb343bfb511" />
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
