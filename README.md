@@ -1,6 +1,6 @@
 [![build badge](https://github.com/wegweg7979/hurunagus-ublue/actions/workflows/build.yml/badge.svg)](https://github.com/wegweg7979/hurunagus-ublue/actions/workflows/build.yml)
 
-
+<img width="150" height="159" alt="hurunagus-logo" src="https://github.com/user-attachments/assets/9fd35c36-06b1-4b77-8160-c663de0a53a9" />
 
 Declarative, Atomic, immutable linux system. Fedora base, from ublue, with customisations including WM Niri with Dank Material Shell, and all the apps i need.
 
@@ -38,7 +38,7 @@ Niri + Dank Material Shell
 
 <p align="center">
   <img width="263" height="144" alt="niri-logo" src="https://github.com/user-attachments/assets/79785a38-7bd2-40a4-824b-6cc76ef2521e" />
-  <img width="150" height="159" alt="hurunagus-logo" src="https://github.com/user-attachments/assets/9fd35c36-06b1-4b77-8160-c663de0a53a9" />
+  
   <img width="150" height="173" alt="danklogo" src="https://github.com/user-attachments/assets/87db3a33-3387-439c-acfe-8cb343bfb511" />
 </p>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
