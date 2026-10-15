@@ -34,7 +34,8 @@ To rebase an existing atomic Fedora installation to the latest build:
   ```
 
 Niri + Dank Material Shell
-<img width="1918" height="1077" alt="Screenshot from 2026-07-09 21-42-39" src="https://github.com/user-attachments/assets/6eb851fc-b459-4695-99fb-0d3323b71f09" />
+<img width="1919" height="1080" alt="Screenshot from 2026-10-15 13-47-33" src="https://github.com/user-attachments/assets/e17ba482-ccbf-4bab-a2f1-5fbeda7e0700" />
+
 
 <p align="center">
   <img width="263" height="144" alt="niri-logo" src="https://github.com/user-attachments/assets/79785a38-7bd2-40a4-824b-6cc76ef2521e" />
