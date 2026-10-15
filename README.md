@@ -8,13 +8,13 @@ Reason to exist: making all my computers run identical systems, with silent auto
 Automatic builds once a week on a tuesday.
 Dont use this- make your own, it is not too difficult and quite fun. https://github.com/ublue-os/image-template
 
-To install from scratch, grab the installer ISO:
+If you didnt listen to the line above, and insist to install from scratch, grab the installer ISO:
 
 ```
 https://drive.google.com/file/d/1a5cKI8DIOkMS1URaBouHjLXrVkTheixX/view?usp=sharing
 ```
 
-To rebase an existing atomic Fedora installation to the latest build:
+OR: To rebase an existing atomic Fedora installation (tested from bluefin and silverblue) to the latest build:
 
 - First rebase to the unsigned image, to get the proper signing keys and policies installed:
   ```
