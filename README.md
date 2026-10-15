@@ -13,6 +13,7 @@ If you didnt listen to the line above, and insist to install from scratch, grab 
 ```
 https://drive.google.com/file/d/1a5cKI8DIOkMS1URaBouHjLXrVkTheixX/view?usp=sharing
 ```
+Be aware installed apps and features will be added or removed as i see fit at anytime. Hence the warning to not consider this a "stable" OS for anyone except myself. 
 
 OR: To rebase an existing atomic Fedora installation (tested from bluefin and silverblue) to the latest build:
 
