@@ -1,6 +1,6 @@
 [![build badge](https://github.com/wegweg7979/hurunagus-ublue/actions/workflows/build.yml/badge.svg)](https://github.com/wegweg7979/hurunagus-ublue/actions/workflows/build.yml)
 
-<img width="150" height="159" alt="hurunagus-logo" src="https://github.com/user-attachments/assets/9fd35c36-06b1-4b77-8160-c663de0a53a9" />
+<img width="400" height="418" alt="hurunagus-logo" src="https://github.com/user-attachments/assets/9fd35c36-06b1-4b77-8160-c663de0a53a9" />
 
 Declarative, Atomic, immutable linux system. Fedora base, from ublue, with customisations including WM Niri with Dank Material Shell, and all the apps i need.
 
