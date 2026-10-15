@@ -4,7 +4,7 @@
 
 Declarative, Atomic, immutable linux system. Fedora base, from ublue, with customisations including WM Niri with Dank Material Shell, and all the apps i need.
 
-Reason to exist: making all my computers run identical systems, with silent auto updates and admin in one place, this repo.
+Reason to exist: making all my computers run identical systems, with automatic silent weekly updates and admin in one place, this repo.
 Automatic builds once a week on a tuesday.
 Dont use this- make your own, it is not too difficult and quite fun. https://github.com/ublue-os/image-template
 
