@@ -40,6 +40,8 @@ Niri + Dank Material Shell
   <img width="263" height="144" alt="niri-logo" src="https://github.com/user-attachments/assets/79785a38-7bd2-40a4-824b-6cc76ef2521e" />
   
   <img width="150" height="173" alt="danklogo" src="https://github.com/user-attachments/assets/87db3a33-3387-439c-acfe-8cb343bfb511" />
+
+  <img width="140" height="40" alt="fedora_darkbackground" src="https://github.com/user-attachments/assets/0dd3975d-16ac-46a6-a14e-d167bdd74281" />
 </p>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
@@ -154,4 +156,4 @@ Niri + Dank Material Shell
        clip-path="url(#clipPath33)" />
   </g>
 </svg>
-<img width="140" height="40" alt="fedora_darkbackground" src="https://github.com/user-attachments/assets/0dd3975d-16ac-46a6-a14e-d167bdd74281" /><?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
