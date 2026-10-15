@@ -1,6 +1,6 @@
 [![build badge](https://github.com/wegweg7979/hurunagus-ublue/actions/workflows/build.yml/badge.svg)](https://github.com/wegweg7979/hurunagus-ublue/actions/workflows/build.yml)
 
-<img width="402" height="426" alt="542900251-a3d3f06c-29eb-40a7-a096-213a3418af8e" src="https://github.com/user-attachments/assets/9fd35c36-06b1-4b77-8160-c663de0a53a9" />
+
 
 Declarative, Atomic, immutable linux system. Fedora base, from ublue, with customisations including WM Niri with Dank Material Shell, and all the apps i need.
 
@@ -36,9 +36,11 @@ To rebase an existing atomic Fedora installation to the latest build:
 Niri + Dank Material Shell
 <img width="1918" height="1077" alt="Screenshot from 2026-07-09 21-42-39" src="https://github.com/user-attachments/assets/6eb851fc-b459-4695-99fb-0d3323b71f09" />
 
-<img width="263" height="144" alt="niri-logo" src="https://github.com/user-attachments/assets/79785a38-7bd2-40a4-824b-6cc76ef2521e" />
-
-<img width="150" height="173" alt="danklogo" src="https://github.com/user-attachments/assets/87db3a33-3387-439c-acfe-8cb343bfb511" />
+<p align="center">
+  <img width="263" height="144" alt="niri-logo" src="https://github.com/user-attachments/assets/79785a38-7bd2-40a4-824b-6cc76ef2521e" />
+  <img width="150" height="159" alt="hurunagus-logo" src="https://github.com/user-attachments/assets/9fd35c36-06b1-4b77-8160-c663de0a53a9" />
+  <img width="150" height="173" alt="danklogo" src="https://github.com/user-attachments/assets/87db3a33-3387-439c-acfe-8cb343bfb511" />
+</p>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
