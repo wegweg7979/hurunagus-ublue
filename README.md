@@ -2,9 +2,9 @@
 
 <img width="400" height="418" alt="hurunagus-logo" src="https://github.com/user-attachments/assets/9fd35c36-06b1-4b77-8160-c663de0a53a9" />
 
-Declarative, Atomic, immutable linux system. Fedora base, from ublue, with customisations including WM Niri with Dank Material Shell, and all the apps i need.
+Declarative, Atomic, immutable linux system. Fedora base, from ublue, with customisation including WM Niri with Dank Material Shell, with automatic weekly updates and all the apps i need preinstalled.
 
-Reason to exist: making all my computers run identical systems, with automatic silent weekly updates and admin in one place, this repo.
+Reason to exist: making all my computers run identical systems,  administered  in one place, this repo.
 Automatic builds once a week on a tuesday.
 Dont use this- make your own, it is not too difficult and quite fun. https://github.com/ublue-os/image-template
 
