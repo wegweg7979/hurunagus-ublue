@@ -4,6 +4,12 @@
 // https://niri-wm.github.io/niri/Configuration:-Introduction
 
 prefer-no-csd true
+
+// Environment variables set for niri and its child processes.
+environment {
+    GTK_THEME "Adwaita:dark"
+}
+
 // Input device configuration.
 // Find the full list of options on the wiki:
 // https://niri-wm.github.io/niri/Configuration:-Input
@@ -24,10 +30,6 @@ input {
 
         // Enable numlock on startup, omitting this setting disables it.
         numlock
-    }
-
-        environment {
-        GTK_THEME "Adwaita:dark"
     }
 
     // Next sections include libinput settings.
