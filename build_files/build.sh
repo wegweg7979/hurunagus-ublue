@@ -21,6 +21,10 @@ dnf5 -y copr enable avengemedia/dms
 dnf5 -y install dms dsearch dms-greeter qt6ct-kde dankcalendar-git tuned-ppd
 dnf5 -y copr disable avengemedia/dms
 
+dnf5 -y copr enable duxlabs/dux
+dnf5 -y install dux-files
+dnf5 -y copr disable duxlabs/dux
+
 # Brave browser repo
 dnf5 -y config-manager addrepo --from-repofile=https://brave-browser-rpm-release.s3.brave.com/brave-browser.repo
 dnf5 -y install brave-origin
