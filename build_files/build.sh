@@ -18,7 +18,7 @@ dnf5 install -y btop fastfetch niri foot greetd khal adwaita-fonts-all igt-gpu-t
 # Enable the DMS COPR, install packages, then disable it so it doesn't
 # end up enabled on the final image (packages will be pinned to build-time versions).
 dnf5 -y copr enable avengemedia/dms
-dnf5 -y install dms dsearch dms-greeter qt6ct-kde dankcalendar-git tuned-ppd
+dnf5 -y install dms dsearch dms-greeter qt6ct-kde dankcalendar-git tuned-ppd dux-files-git
 dnf5 -y copr disable avengemedia/dms
 
 #dnf5 -y copr enable duxlabs/dux
