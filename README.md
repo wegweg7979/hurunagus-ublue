@@ -8,11 +8,7 @@ Reason to exist: making all my computers run identical systems,  administered  i
 Automatic builds once a week on a tuesday.
 Dont use this- make your own, it is not too difficult and quite fun. https://github.com/ublue-os/image-template
 
-If you didnt listen to the line above, and insist to install from scratch, grab the installer ISO:
 
-```
-https://drive.google.com/file/d/1a5cKI8DIOkMS1URaBouHjLXrVkTheixX/view?usp=sharing
-```
 Be aware installed apps and features will be added or removed as i see fit at anytime. Hence the warning to not consider this a "stable" OS for anyone except myself. It is , in fact, a rock solid, efficient and fully featured operating system suitable for multimedia and modern computing in 2026. If you are the admin for more the one machine, you should really take the time to make one yourself for exactly YOUR needs. 
 
 OR: To rebase an existing atomic Fedora installation (tested from bluefin and silverblue) to the latest build:
